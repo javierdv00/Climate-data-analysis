@@ -15,6 +15,8 @@ This project was used to achieved the following task:
 
 &emsp;● Create interactive temporal temperature map plots for different locations using plotly.express through the years.
 
+&emsp;● Create an dashboard using the saved interative plots.
+
 # Data
 The pre defined datasets of the the European Climate Assessment can be found under the following link (Blended ECA dataset- Daily mean temperature TG):  
 [https://www.ecad.eu/dailydata/predefinedseries.php](https://www.ecad.eu/dailydata/predefinedseries.php) 
