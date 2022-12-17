@@ -2,7 +2,7 @@
 Intensive review of a big dataset which contained innumerous records. It follows a process of data cleaning and preparation to conduct a further analysis via interactive plots.
 
 # Tasks
-This project was used to achieved the following task:
+This project was used to achieved the following task:  
 &emsp;● Join a big climate dataset distributed across innumerous .csv files
 
 &emsp;● Import the data into a climate database on a cloud server
