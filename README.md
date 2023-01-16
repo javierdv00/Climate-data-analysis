@@ -18,5 +18,5 @@ This project was used to achieved the following task:
 &emsp;● Create an dashboard using the saved interative plots.
 
 # Data
-The pre defined datasets of the the European Climate Assessment can be found under the following link (Blended ECA dataset- Daily mean temperature TG):  
+The pre defined datasets of the European Climate Assessment can be found under the following link (Blended ECA dataset- Daily mean temperature TG):  
 [https://www.ecad.eu/dailydata/predefinedseries.php](https://www.ecad.eu/dailydata/predefinedseries.php) 
